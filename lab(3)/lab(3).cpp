@@ -3,20 +3,21 @@ using namespace std;
 
 int main()
 {
+    setlocale(LC_CTYPE, "Russian");
     float x;
-    cout << "x: ";
+    cout << "Введите x: ";
     cin >> x;
     float y;
-    cout << "y: ";
+    cout << "Введите y: ";
     cin >> y;
     float summ = x * x + y * y;
-    cout << "summa kvadratov  = " << summ << endl;
+    cout << "Сумма квадратов = " << summ << endl;
     float diff = x * x - y * y;
-    cout << "raznost kvadratov  = " << diff << endl;
+    cout << "Разность квадратов = " << diff << endl;
     float mult = (x * x) * (y * y);
-    cout << "proizvedenie kvadratov = " << mult << endl;
+    cout << "Произведение квадратов = " << mult << endl;
     float div = (x * x) / (y * y);
-    cout << "4astnoe kvadratov  = " << div;
+    cout << "Частное квадратов = " << div;
     return 0;
 }
 
