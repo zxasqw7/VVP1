@@ -6,9 +6,9 @@ int main()
 	setlocale(LC_CTYPE, "Russian");
 	int a;
 	int b;
-	cout << "Введите a: ";
+	cout << "Введите первую сторону треугольника: ";
 	cin >> a;
-	cout << "Введите b: ";
+	cout << "Введите вторую сторону треугольника: ";
 	cin >> b;
 	int S = a * b;
 	cout << "S = " << S << endl;
