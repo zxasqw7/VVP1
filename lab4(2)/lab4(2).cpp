@@ -5,13 +5,13 @@ int main()
 {
 	setlocale(LC_CTYPE, "Russian");
 	float a;
-	cout << "Введите a: ";
+	cout << "Введите первое число: ";
 	cin >> a;
 	float b;
-	cout << "Введите b: ";
+	cout << "Введите второе число: ";
 	cin >> b;
 	float avg = (a + b) / 2;
-	cout << "average = " << avg;
+	cout << "среднее арифметическое чисел = " << avg;
 	return 0;
 }
  

@@ -5,10 +5,10 @@ int main()
 {
     setlocale(LC_CTYPE, "Russian");
     float x;
-    cout << "Введите x: ";
+    cout << "Введите первое число (ненулевое): ";
     cin >> x;
     float y;
-    cout << "Введите y: ";
+    cout << "Введите второе число (ненулевое): ";
     cin >> y;
     float summ = x * x + y * y;
     cout << "Сумма квадратов = " << summ << endl;

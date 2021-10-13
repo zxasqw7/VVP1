@@ -5,7 +5,7 @@ int main()
 {
     setlocale(LC_CTYPE, "Russian");
     float d;
-    cout << "Введите d: ";
+    cout << "Введите диаметр окружности: ";
     cin >> d;
     float pi = 3.14;
     float L = pi * d;
