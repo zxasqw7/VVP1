@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, "Ru");
     int x1, x2, y1, y2, l, h, P, S;
     cout << "Введите координаты первой вершины прямоугольника: ";
     cin >> x1 >> y1;
