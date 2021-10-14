@@ -5,7 +5,7 @@ using namespace std;
 int main()
 
 {
-    setlocale(LC_ALL, "rus");
+    setlocale(LC_ALL, "Ru");
     float x1, x2, y1, y2, z, a;
     cout << "Введите координаты первой точки: ";
     cin >> x1 >> y1;
