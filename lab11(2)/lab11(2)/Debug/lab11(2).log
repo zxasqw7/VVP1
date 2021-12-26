@@ -1,0 +1,4 @@
+﻿  lab11(2).cpp
+C:\Users\sviri\source\repos\lab11(2)\lab11(2)\lab11(2).cpp(14,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\sviri\source\repos\lab11(2)\lab11(2)\lab11(2).cpp(15,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab11(2).vcxproj -> C:\Users\sviri\source\repos\lab11(2)\Debug\lab11(2).exe
