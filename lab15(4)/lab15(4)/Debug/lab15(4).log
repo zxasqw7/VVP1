@@ -1,0 +1,4 @@
+﻿  lab15(4).cpp
+C:\Users\sviri\source\repos\lab15(4)\lab15(4)\lab15(4).cpp(9,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\sviri\source\repos\lab15(4)\lab15(4)\lab15(4).cpp(13,6): warning C4101: i: неиспользованная локальная переменная
+  lab15(4).vcxproj -> C:\Users\sviri\source\repos\lab15(4)\Debug\lab15(4).exe
